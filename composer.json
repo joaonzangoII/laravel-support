@@ -21,6 +21,12 @@
         "source": "https://github.com/rinvex/laravel-support",
         "docs": "https://github.com/rinvex/laravel-support/blob/master/README.md"
     },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/joaonzangoII/laravel-schemaless-attributes"
+        }
+    ],
     "authors": [
         {
             "name": "Rinvex LLC",
@@ -48,7 +54,7 @@
         "illuminate/routing": "^5.0.0|^6.0.0|^7.0.0",
         "illuminate/support": "^5.0.0|^6.0.0|^7.0.0",
         "illuminate/validation": "^5.0.0|^6.0.0|^7.0.0",
-        "spatie/laravel-schemaless-attributes": "^1.7.0",
+        "josonzangoii/laravel-schemaless-attributes": "master",
         "watson/validating": "~3.2.0"
     },
     "require-dev": {
