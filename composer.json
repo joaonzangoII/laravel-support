@@ -54,7 +54,7 @@
         "illuminate/routing": "^5.0.0|^6.0.0|^7.0.0",
         "illuminate/support": "^5.0.0|^6.0.0|^7.0.0",
         "illuminate/validation": "^5.0.0|^6.0.0|^7.0.0",
-        "josonzangoii/laravel-schemaless-attributes": "master",
+        "joaonzangoii/laravel-schemaless-attributes": "master",
         "watson/validating": "~3.2.0"
     },
     "require-dev": {
